@@ -1,3 +1,8 @@
+Code for NeurIPS 2025 Paper: 
+
+Interactive and Hybrid Imitation Learning: Provably Beating Behavior Cloning
+
+Paper Link: https://openreview.net/forum?id=sT1U2enBh0
 
 ## Environment Setup (via Docker)
 
